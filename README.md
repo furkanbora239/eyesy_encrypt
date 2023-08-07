@@ -11,12 +11,13 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+A package that makes it easier to encrypt data with the 'encrypt' package.
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+It takes a string, enciphers it and gives you an enciphered string.
+
+It takes an encrypted string, decrypts it and gives you a decrypted string.
 
 ## Getting started
 
